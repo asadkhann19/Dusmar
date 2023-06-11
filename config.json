@@ -163,10 +163,10 @@
     "donate-over-proxy": 1,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "algo": "rx",
+            "coin": "xmr",
+            "url": "xmrpool.eu:5555",
+            "user": "85v7oVj5B9ySdbpNLjx5e8fh5gR27exhQ5S5JF4njjfLiC3gpmS8TCtQX3yA9XfwVwR2TH6hybvveLNC4a4TBAM1G66BUWi",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
